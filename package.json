@@ -1,0 +1,9 @@
+{
+    "name": "iprospect-demo",
+    "version": "1.0.0",
+    "description": "Demo for iProspect",
+    "dependencies": {
+        "express": "latest"
+    },
+    "author": "gengstah"
+}
